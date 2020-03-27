@@ -6,5 +6,5 @@ Categories=Utility;Education;
 Exec=com.github.rnjohn.hello-again 
 Icon=application-default-icon 
 Terminal=false
-Type=application
+Type=Application
 Keywords=Hello;World;Example;
